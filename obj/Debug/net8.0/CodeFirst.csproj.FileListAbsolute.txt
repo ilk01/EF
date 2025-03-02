@@ -159,3 +159,4 @@ C:\Users\User\RiderProjects\CodeFirst\CodeFirst\obj\Debug\net8.0\refint\CodeFirs
 C:\Users\User\RiderProjects\CodeFirst\CodeFirst\obj\Debug\net8.0\CodeFirst.pdb
 C:\Users\User\RiderProjects\CodeFirst\CodeFirst\obj\Debug\net8.0\CodeFirst.genruntimeconfig.cache
 C:\Users\User\RiderProjects\CodeFirst\CodeFirst\obj\Debug\net8.0\ref\CodeFirst.dll
+C:\Users\User\RiderProjects\CodeFirst\CodeFirst\obj\Debug\net8.0\CodeFirst.sourcelink.json
