@@ -1,0 +1,14 @@
+C:\Users\User\RiderProjects\WpfTcpClientServer\Serverr\bin\Debug\net8.0\Serverr.exe
+C:\Users\User\RiderProjects\WpfTcpClientServer\Serverr\bin\Debug\net8.0\Serverr.deps.json
+C:\Users\User\RiderProjects\WpfTcpClientServer\Serverr\bin\Debug\net8.0\Serverr.runtimeconfig.json
+C:\Users\User\RiderProjects\WpfTcpClientServer\Serverr\bin\Debug\net8.0\Serverr.dll
+C:\Users\User\RiderProjects\WpfTcpClientServer\Serverr\bin\Debug\net8.0\Serverr.pdb
+C:\Users\User\RiderProjects\WpfTcpClientServer\Serverr\obj\Debug\net8.0\Serverr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\WpfTcpClientServer\Serverr\obj\Debug\net8.0\Serverr.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\WpfTcpClientServer\Serverr\obj\Debug\net8.0\Serverr.AssemblyInfo.cs
+C:\Users\User\RiderProjects\WpfTcpClientServer\Serverr\obj\Debug\net8.0\Serverr.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\WpfTcpClientServer\Serverr\obj\Debug\net8.0\Serverr.dll
+C:\Users\User\RiderProjects\WpfTcpClientServer\Serverr\obj\Debug\net8.0\refint\Serverr.dll
+C:\Users\User\RiderProjects\WpfTcpClientServer\Serverr\obj\Debug\net8.0\Serverr.pdb
+C:\Users\User\RiderProjects\WpfTcpClientServer\Serverr\obj\Debug\net8.0\Serverr.genruntimeconfig.cache
+C:\Users\User\RiderProjects\WpfTcpClientServer\Serverr\obj\Debug\net8.0\ref\Serverr.dll
