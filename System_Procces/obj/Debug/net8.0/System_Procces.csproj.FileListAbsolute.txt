@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\System_Procces\System_Procces\bin\Debug\net8.0\System_Procces.exe
+C:\Users\User\RiderProjects\System_Procces\System_Procces\bin\Debug\net8.0\System_Procces.deps.json
+C:\Users\User\RiderProjects\System_Procces\System_Procces\bin\Debug\net8.0\System_Procces.runtimeconfig.json
+C:\Users\User\RiderProjects\System_Procces\System_Procces\bin\Debug\net8.0\System_Procces.dll
+C:\Users\User\RiderProjects\System_Procces\System_Procces\bin\Debug\net8.0\System_Procces.pdb
+C:\Users\User\RiderProjects\System_Procces\System_Procces\obj\Debug\net8.0\System_Procces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\System_Procces\System_Procces\obj\Debug\net8.0\System_Procces.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\System_Procces\System_Procces\obj\Debug\net8.0\System_Procces.AssemblyInfo.cs
+C:\Users\User\RiderProjects\System_Procces\System_Procces\obj\Debug\net8.0\System_Procces.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\System_Procces\System_Procces\obj\Debug\net8.0\System_Procces.sourcelink.json
+C:\Users\User\RiderProjects\System_Procces\System_Procces\obj\Debug\net8.0\System_Procces.dll
+C:\Users\User\RiderProjects\System_Procces\System_Procces\obj\Debug\net8.0\refint\System_Procces.dll
+C:\Users\User\RiderProjects\System_Procces\System_Procces\obj\Debug\net8.0\System_Procces.pdb
+C:\Users\User\RiderProjects\System_Procces\System_Procces\obj\Debug\net8.0\System_Procces.genruntimeconfig.cache
+C:\Users\User\RiderProjects\System_Procces\System_Procces\obj\Debug\net8.0\ref\System_Procces.dll
