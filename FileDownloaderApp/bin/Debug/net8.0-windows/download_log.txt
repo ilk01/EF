@@ -1,0 +1,20 @@
+[12.05.2025 15:50:32] Поток Поток 1 начал загрузку: https://file-examples-com.github.io/uploads/2017/10/file-example_PDF_150kB.pdf
+[12.05.2025 15:50:33] Ошибка при загрузке Поток 1: Not Found
+[12.05.2025 15:50:41] Поток Поток 1 начал загрузку: https://www.sample-videos.com/download-sample-zip.php?file=sample-zip-1mb.zip
+[12.05.2025 15:50:42] Поток Поток 1 завершил загрузку: https://www.sample-videos.com/download-sample-zip.php?file=sample-zip-1mb.zip
+[12.05.2025 15:53:42] Поток Поток 1 начал загрузку: https://sefon.pro/artist/37116-isajya/
+[12.05.2025 15:53:42] Поток Поток 1 завершил загрузку: https://sefon.pro/artist/37116-isajya/
+[12.05.2025 16:22:33] Поток Поток 1 начал загрузку: https://sefon.pro/mp3/2210816-isajya-tam-za-rekoj/
+[12.05.2025 16:22:34] Ошибка при загрузке Поток 1: The process cannot access the file 'C:\Users\User\RiderProjects\FileDownloaderApp\FileDownloaderApp\bin\Debug\net8.0-windows\downloads\Поток 1.pdf' because it is being used by another process.
+[12.05.2025 16:23:04] Поток Поток 1 начал загрузку: https://cdn.mp3wr.com/?h=JGraYpdVSLVNJPXqEblzkeDu8wsIvvgTnxHuh9x5UdEFxg6-4MC8tWl0DdclmMB0gJ7aOe3Z5CeKKq7XxdupYlFX5GGUUys7EMawg8RWGebJMmDWcWOdsCixb1BfFKeSWVflY54tX1cguWOMulllJdNCYM2ngJbDPrqB
+[12.05.2025 16:23:05] Ошибка при загрузке Поток 1: The process cannot access the file 'C:\Users\User\RiderProjects\FileDownloaderApp\FileDownloaderApp\bin\Debug\net8.0-windows\downloads\Поток 1.pdf' because it is being used by another process.
+[12.05.2025 16:23:19] Поток Поток 1 начал загрузку: https://mj.acmitequail.com/iEyE5O7U7kp/121358sCixb1BfFKeSWVflY54tX1cguWOMulllJdNCYM2ngJbDPrqB
+[12.05.2025 16:23:21] Ошибка при загрузке Поток 1: The process cannot access the file 'C:\Users\User\RiderProjects\FileDownloaderApp\FileDownloaderApp\bin\Debug\net8.0-windows\downloads\Поток 1.pdf' because it is being used by another process.
+[12.05.2025 16:23:27] Поток Поток 1 начал загрузку: https://mega.nz/file/U6l3DY4A#r3gCXlqS_daaSzcEIYhUHa0e2GmY8aWTITJKGPktKfk
+[12.05.2025 16:23:28] Ошибка при загрузке Поток 1: The process cannot access the file 'C:\Users\User\RiderProjects\FileDownloaderApp\FileDownloaderApp\bin\Debug\net8.0-windows\downloads\Поток 1.pdf' because it is being used by another process.
+[12.05.2025 16:27:35] Поток Поток 1 начал загрузку: https://mp3wr.com/hit/97108
+[12.05.2025 16:27:35] Поток Поток 1 завершил загрузку: https://mp3wr.com/hit/97108
+[12.05.2025 16:28:48] Поток Поток 1 начал загрузку: https://mp3wr.com/hit/97108
+[12.05.2025 16:28:48] Поток Поток 2 начал загрузку: https://mp3party.net/music/11312265
+[12.05.2025 16:28:48] Поток Поток 1 завершил загрузку: https://mp3wr.com/hit/97108
+[12.05.2025 16:28:48] Поток Поток 2 завершил загрузку: https://mp3party.net/music/11312265
