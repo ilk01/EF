@@ -1,0 +1,14 @@
+C:\Users\User\RiderProjects\System_Procces\Child_Process\bin\Debug\net8.0\Child_Process.exe
+C:\Users\User\RiderProjects\System_Procces\Child_Process\bin\Debug\net8.0\Child_Process.deps.json
+C:\Users\User\RiderProjects\System_Procces\Child_Process\bin\Debug\net8.0\Child_Process.runtimeconfig.json
+C:\Users\User\RiderProjects\System_Procces\Child_Process\bin\Debug\net8.0\Child_Process.dll
+C:\Users\User\RiderProjects\System_Procces\Child_Process\bin\Debug\net8.0\Child_Process.pdb
+C:\Users\User\RiderProjects\System_Procces\Child_Process\obj\Debug\net8.0\Child_Process.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\System_Procces\Child_Process\obj\Debug\net8.0\Child_Process.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\System_Procces\Child_Process\obj\Debug\net8.0\Child_Process.AssemblyInfo.cs
+C:\Users\User\RiderProjects\System_Procces\Child_Process\obj\Debug\net8.0\Child_Process.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\System_Procces\Child_Process\obj\Debug\net8.0\Child_Process.dll
+C:\Users\User\RiderProjects\System_Procces\Child_Process\obj\Debug\net8.0\refint\Child_Process.dll
+C:\Users\User\RiderProjects\System_Procces\Child_Process\obj\Debug\net8.0\Child_Process.pdb
+C:\Users\User\RiderProjects\System_Procces\Child_Process\obj\Debug\net8.0\Child_Process.genruntimeconfig.cache
+C:\Users\User\RiderProjects\System_Procces\Child_Process\obj\Debug\net8.0\ref\Child_Process.dll
