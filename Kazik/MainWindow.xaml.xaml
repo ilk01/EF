@@ -1,0 +1,60 @@
+﻿<Window x:Class="Kazik.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kazik App" Height="1200" Width="1000"
+        WindowStartupLocation="CenterScreen"> 
+    <Grid Background="#2C2F33">
+        <Button Name="GenerateNumbersButton" Content="Генерировать числа" 
+                VerticalAlignment="Top" HorizontalAlignment="Center" 
+                Width="400" Height="60" Margin="0,50,0,0" 
+                Click="GenerateNumbersButton_Click"/>
+        
+        <Button Name="FilterPrimesButton" Content="Фильтровать простые числа" 
+                VerticalAlignment="Top" HorizontalAlignment="Center" 
+                Width="400" Height="60" Margin="0,120,0,0" 
+                Click="FilterPrimesButton_Click"/>
+        
+        <Button Name="FilterEndsWith7Button" Content="Фильтровать числа, заканчивающиеся на 7" 
+                VerticalAlignment="Top" HorizontalAlignment="Center" 
+                Width="400" Height="60" Margin="0,190,0,0" 
+                Click="FilterEndsWithButton_Click"/>
+        
+        <Button Name="GenerateReportButton" Content="Создать отчёт" 
+                VerticalAlignment="Top" HorizontalAlignment="Center" 
+                Width="400" Height="60" Margin="0,260,0,0" 
+                Click="GenerateReportButton_Click"/>
+        
+        <Button Name="StartCasinoButton" Content="Запустить казино" 
+                VerticalAlignment="Top" HorizontalAlignment="Center" 
+                Width="400" Height="60" Margin="0,330,0,0" 
+                Click="StartCasinoButton_Click"/>
+
+        <ProgressBar Name="GlobalProgressBar" 
+                     VerticalAlignment="Top" 
+                     HorizontalAlignment="Center" 
+                     Width="800" 
+                     Height="30" 
+                     Margin="0,400,0,0" 
+                     Minimum="0" 
+                     Maximum="100" 
+                     Value="{Binding ProgressValue}" />
+
+        <TextBlock Name="StatusTextBlock" VerticalAlignment="Top" HorizontalAlignment="Center" 
+                   Margin="0,470,0,0" Width="900" Height="120" 
+                   TextWrapping="Wrap" Text="{Binding StatusText}" FontSize="24" Foreground="White" Visibility="Visible"/>
+
+        <TextBlock Name="NumbersTextBlock" VerticalAlignment="Top" HorizontalAlignment="Center" 
+                   Margin="0,530,0,0" Width="900" Height="300" 
+                   TextWrapping="Wrap" FontSize="20" Foreground="White" Visibility="{Binding NumbersTextVisibility}" 
+                   Text="{Binding NumbersText}"/>
+
+        <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto"
+                      Margin="0,600,0,0" Height="300">
+            <TextBlock Name="CasinoReportTextBlock" 
+                       VerticalAlignment="Top" HorizontalAlignment="Center" 
+                       Width="900" Height="Auto"
+                       TextWrapping="Wrap" FontSize="20" Foreground="White" 
+                       Visibility="{Binding CasinoReportVisibility}" Text="{Binding CasinoReportText}"/>
+        </ScrollViewer>
+    </Grid>
+</Window>
