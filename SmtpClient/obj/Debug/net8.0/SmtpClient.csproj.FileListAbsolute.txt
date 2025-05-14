@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\SmtpClient\SmtpClient\obj\Debug\net8.0\SmtpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\SmtpClient\SmtpClient\obj\Debug\net8.0\SmtpClient.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\SmtpClient\SmtpClient\obj\Debug\net8.0\SmtpClient.AssemblyInfo.cs
+C:\Users\User\RiderProjects\SmtpClient\SmtpClient\obj\Debug\net8.0\SmtpClient.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\SmtpClient\SmtpClient\bin\Debug\net8.0\SmtpClient.exe
+C:\Users\User\RiderProjects\SmtpClient\SmtpClient\bin\Debug\net8.0\SmtpClient.deps.json
+C:\Users\User\RiderProjects\SmtpClient\SmtpClient\bin\Debug\net8.0\SmtpClient.runtimeconfig.json
+C:\Users\User\RiderProjects\SmtpClient\SmtpClient\bin\Debug\net8.0\SmtpClient.dll
+C:\Users\User\RiderProjects\SmtpClient\SmtpClient\bin\Debug\net8.0\SmtpClient.pdb
+C:\Users\User\RiderProjects\SmtpClient\SmtpClient\obj\Debug\net8.0\SmtpClient.dll
+C:\Users\User\RiderProjects\SmtpClient\SmtpClient\obj\Debug\net8.0\refint\SmtpClient.dll
+C:\Users\User\RiderProjects\SmtpClient\SmtpClient\obj\Debug\net8.0\SmtpClient.pdb
+C:\Users\User\RiderProjects\SmtpClient\SmtpClient\obj\Debug\net8.0\SmtpClient.genruntimeconfig.cache
+C:\Users\User\RiderProjects\SmtpClient\SmtpClient\obj\Debug\net8.0\ref\SmtpClient.dll
+C:\Users\User\RiderProjects\SmtpClient\SmtpClient\bin\Debug\net8.0\appsettings.json
